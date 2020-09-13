@@ -17,8 +17,9 @@ public class AppMain {
 		int month = 1 + cal.get(Calendar.MONTH);
 		System.out.println("Minutes: " + minutes);
 		System.out.println("Month: " + month);
-		System.out.println("isso é um teste");
-
+		//System.out.println("isso é um teste");
+		System.out.println("testando o github");
+		System.out.println("mundo louco");
 	}
 
 }
